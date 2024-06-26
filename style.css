@@ -1,0 +1,18 @@
+
+#counter{
+    font-weight: 900;
+    font-size: x-large;
+    text-align: center;
+    color: black;
+    background-color: aqua;
+    
+}
+#minus,#plus,#heading{
+    align-items: center;
+    font-weight: 900;
+    font-size: x-large;
+    text-align: center;
+    color: black;
+    background-color: aqua;
+    
+}
